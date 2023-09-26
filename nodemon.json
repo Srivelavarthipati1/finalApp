@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"sripravallika7003",
+        "MONGO_PASSWORD":"xwScQAQVJSNZkQUk",
+        "MONGO_DEFAULT_DB":"test"
+        
+    }
+}
